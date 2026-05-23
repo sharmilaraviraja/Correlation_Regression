@@ -66,10 +66,7 @@ plt.legend(['Regression Line', 'Data Points'])
 plt.grid(True)
 plt.show()
 ```
-
-# Result
-<img width="1027" height="910" alt="image" src="https://github.com/user-attachments/assets/d559e8dd-e316-43dc-bb0f-5a40208d7299" />
-
-
 # Output 
-<img width="821" height="716" alt="image" src="https://github.com/user-attachments/assets/ebec0820-753f-4ba3-a6c9-6bee2a19ec6b" />
+<img width="1027" height="910" alt="image" src="https://github.com/user-attachments/assets/114660c3-cc95-47d6-9277-db7edc357b86" />
+# Result
+Thus Correlation and regression for data analysis executed successfully.
